@@ -218,6 +218,11 @@ bg-secondary-color {
     background-color: rgba(100, 100, 100, 0.308);
 }
 
+.title-info {
+    font-size: 1.75em;
+    margin-bottom: 0.4em;
+}
+
 #info-numbers {
     margin: 1.5em 0;
 }
