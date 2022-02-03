@@ -1,7 +1,7 @@
 
 # Página de venda de imóveis
 
-### Essa página foi desenvolvida usando HTML, CSS e Bootstrap 5<br/>
+### Essa página foi desenvolvida usando HTML, CSS e Bootstrap 5.<br/>
 (Peço que ignorem os nomes dos commits, na época eu colocava nomes qualquer).<br/><br/>
 
 
